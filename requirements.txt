@@ -1,0 +1,6 @@
+gradio
+llama-index-embeddings-openai
+llama-index-llms-groq
+llama-index
+torch
+torchvision
